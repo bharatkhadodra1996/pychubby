@@ -17,9 +17,9 @@ if "RTD_BUILD" not in os.environ:
 
 LONG_DESCRIPTION = "Automated face warping tool"
 PROJECT_URLS = {
-    "Bug Tracker": "https://github.com/jankrepl/pychubby/issues",
+    "Bug Tracker": "https://github.com/bharatkhadodra1996/pychubby/issues",
     "Documentation": "https://pychubby.readthedocs.io",
-    "Source Code": "https://github.com/jankrepl/pychubby",
+    "Source Code": "https://github.com/bharatkhadodra1996/pychubby",
 }
 VERSION = pychubby.__version__
 
