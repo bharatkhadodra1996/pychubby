@@ -30,7 +30,7 @@ setup(
     author_email="kjan.official@gmail.com",
     description="Automated face warping tool",
     long_description=LONG_DESCRIPTION,
-    url="https://github.com/jankrepl/pychubby",
+    url="https://github.com/bharatkhadodra1996/pychubby",
     project_urls=PROJECT_URLS,
     packages=["pychubby"],
     license="MIT",
